@@ -14,6 +14,7 @@ public class A extends Demo{//dispaly();      show().body avilable....
 	 
 	 System.out.println("this is  A class method ");
 	 System.out.println("hi this new sop ");
+	 System.out.println("this is second new");
 	 
  }
 }
