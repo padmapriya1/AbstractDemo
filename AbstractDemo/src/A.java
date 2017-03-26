@@ -13,6 +13,7 @@ public class A extends Demo{//dispaly();      show().body avilable....
  public void show1(){
 	 
 	 System.out.println("this is  A class method ");
+	 System.out.println("hi this new sop ");
 	 
  }
 }
